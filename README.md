@@ -59,7 +59,7 @@ async def process_document():
 ## Quick Start
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/fastapi-learning.git
+git clone https://github.com/georgenavarro1802/fastapi-learning.git
 cd fastapi-learning
 
 # Create virtual environment
@@ -84,9 +84,8 @@ uvicorn main:app --reload
 ## Next Steps
 
 This repo pairs well with:
-- [pydantic-v2-advanced](link) - Deep dive into Pydantic v2 features
-- [litellm-learning](link) - Multi-provider LLM abstraction
-- [langgraph-learning](link) - Agentic workflows
+- [litellm-learning](https://github.com/georgenavarro1802/litellm-learning) - Multi-provider LLM abstraction
+- [langgraph-learning](https://github.com/georgenavarro1802/langgraph-learning) - Agentic workflows
 
 ## Resources
 
